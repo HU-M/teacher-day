@@ -1,0 +1,12 @@
+body{
+    color:blue
+    background-color darkturquoise
+    font-color aqua
+    font-family robotosan
+}
+
+div {
+    height: 100px;
+    display:grid;
+    place-items:center ;
+}
